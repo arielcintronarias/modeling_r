@@ -2,5 +2,5 @@
 
 The following materials were originally created for professional development clinics.
 
-* Slides (created with LaTeX) introducing compartmental models for infectious diseases with least-squres estimation are available in [hey]()
+* Slides (created with LaTeX) introducing compartmental models for infectious diseases with least-squres estimation are available in [OLS for SIR Models](https://github.com/arielcintronarias/modeling_r/blob/main/assets/ols_sir.pdf)
 * hola
